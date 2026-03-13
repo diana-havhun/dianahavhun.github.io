@@ -16,5 +16,5 @@ five decades of ANES survey data.
 
 ## Data
 American National Election Studies (ANES) Cumulative Data File, 1948–2024.  
-Available at: [electionstudies.org](https://electionstudies.org/data-center/anes-cumulative-data-file/)  
+Available at: [electionstudies.org](https://electionstudies.org/data-center/)  
 Due to file size, the data is not included in this repository and must be downloaded directly from the ANES website.
